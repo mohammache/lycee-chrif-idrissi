@@ -1,2 +1,2 @@
-# lycee-chrif-idrissi
-"Official website of Lycée Chrif Idrissi – Al Ja'idat"
+# lycee-chrife-idrissi jaidate
+"Official website of Lycée Chrife Idrissi – Al Ja'idate"
